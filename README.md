@@ -1,5 +1,6 @@
 # liri-node-app
 LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
+![](https://giphy.com/gifs/lSys0YCNrfzoIqRJxG/html5)
 
 You can use 4 different commands:
   * `concert-this` "Your favorite band here"
@@ -22,7 +23,7 @@ You can use 4 different commands:
 
    * `movie-this` "your favorite movie here"
     Displays
-           * Title of the movie.
+       * Title of the movie.
        * Year the movie came out.
        * IMDB Rating of the movie.
        * Rotten Tomatoes Rating of the movie.
@@ -31,5 +32,4 @@ You can use 4 different commands:
        * Plot of the movie.
        * Actors in the movie.
    * `do-what-it-says` 
-   Displays 
-   Reads a file for a static command and media file and performs the command on that media
+       * Reads a file for a static command and media file and performs the command on that media
