@@ -1,6 +1,6 @@
 # liri-node-app
 LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
-![](https://giphy.com/gifs/lSys0YCNrfzoIqRJxG/html5)
+![](https://media.giphy.com/media/lSys0YCNrfzoIqRJxG/giphy.gif)
 
 You can use 4 different commands:
   * `concert-this` "Your favorite band here"
