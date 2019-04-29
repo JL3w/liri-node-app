@@ -38,5 +38,5 @@ function logic(cmd, term) {
     };
 };
 logic(cmdInput, term);
-
+//test
 
