@@ -35,3 +35,5 @@ You can use 4 different commands:
        * Actors in the movie.
    * `do-what-it-says` 
        * Reads a file for a static command and media file and performs the command on that media
+
+* As my first CLI app, refactoring LIRI to be more modular was a challenge. Of great help was simply reading and fully understanding how existing apps acheived this.
